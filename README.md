@@ -1,6 +1,6 @@
 # Hackernews Stream
 
-Stream twitter terms, then slack them to a webhook
+Search hacker news terms, then slack them to a webhook
 
 ### Getting started
 
