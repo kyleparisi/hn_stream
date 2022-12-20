@@ -1,0 +1,2 @@
+app: hn_stream
+formation: worker=1
