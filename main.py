@@ -125,6 +125,7 @@ def main():
         backfill(current=content_int, backfill=current_int)
         # we have back filled, let's continue from here
         print(f"new max: {content}")
+        # update to max point in time
         current_int = content_int
         fd.truncate(0)
         fd.seek(0)
