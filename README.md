@@ -1,6 +1,8 @@
 # Hackernews Stream
 
-Search hacker news terms, then slack them to a webhook
+Search hacker news terms, then slack them to a webhook.
+
+[Reference](https://github.com/HackerNews/API)
 
 ### Getting started
 
